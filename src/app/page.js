@@ -85,6 +85,13 @@ export default function Home() {
         </div>
         </div>
       </section>
+      <section className="section is-paddingless">
+        <div className="container container-limit px-2 py-5 has-text-centered">
+          <a href="https://60897y7kp5sxxw3f8hh6weg77u.hop.clickbank.net" className="has-text-black"><p>View More</p>
+          <i className="fa fa-chevron-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </section>
     </>
   );
 }

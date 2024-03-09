@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <>
       <nav className="navbar px-2 py-2 is-link is-size-5 is-justify-content-center is-align-content-center is-flex-wrap-wrap" role="navigation" aria-label="main navigation">
-        <p className="is-size-4 is-size-5-touch has-text-centered">96% of patient's <span class="yellowunder">dropped 29.4 lbs</span> of Fat with Dr's rare method</p>
+        <p className="is-size-4 is-size-5-touch has-text-centered">96% of patient's <span className="yellowunder">dropped 29.4 lbs</span> of Fat with Dr's rare method</p>
       </nav>
       <section className="section is-paddingless">
         <div className="container container-limit px-2 py-6">
@@ -24,7 +24,7 @@ export default function Home() {
       </section>
       <section className="section is-paddingless">
         <div className="container container-limit px-2 py-6 flex">
-        <p className="has-text-weight-bold has-text-centered is-size-3 is-size-4-touch lh1 mb-5 pt-3" style={{ color: '#098974' }}><span class="yellowunder">Watch this shocking proof</span>...</p>
+        <p className="has-text-weight-bold has-text-centered is-size-3 is-size-4-touch lh1 mb-5 pt-3" style={{ color: '#098974' }}><span className="yellowunder">Watch this shocking proof</span>...</p>
         <div className="is-flex is-justify-content-center is-align-content-center">
           <a href="https://hop.clickbank.net/?affiliate=aslibharat&vendor=puraclick&pg=research">
           <img src="https://i.ibb.co/df0Mr2N/video-image.png" />

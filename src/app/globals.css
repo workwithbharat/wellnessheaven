@@ -13539,3 +13539,13 @@ div.tp:nth-of-type(odd) {
   width: 30vw;
   min-width: 115px
 }
+
+.hellobharat-only-mobile {display: none;}
+
+@media (max-width: 575.98px) {
+  .hellobharat-mob {display: none ;}
+  .hellobharat-width {width: 98% !important;}
+  .hellobharat-button strong {font-size: 25px !important;}
+  .hellobharat-bottom {background-color: #fafafa;}
+  .hellobharat-only-mobile {display: block !important;}
+}

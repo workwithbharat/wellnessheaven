@@ -27,7 +27,7 @@ export default function Home() {
         <div className="container container-limit px-2 py-6 flex">
         <p className="has-text-weight-bold has-text-centered is-size-3 is-size-4-touch lh1 mb-5 pt-3" style={{ color: '#098974' }}><span className="yellowunder">Watch this shocking proof</span>...</p>
         <div className="is-flex is-justify-content-center is-align-content-center">
-          <a href="https://hop.clickbank.net/?affiliate=aslibharat&vendor=lbjuice&pid=100" target="_blank">
+          <a href="https://hop.clickbank.net/?affiliate=aslibharat&vendor=lbjuice&pid=100">
           <img src="https://i.ibb.co/df0Mr2N/video-image.png" />
           </a>
         </div>

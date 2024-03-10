@@ -17,6 +17,7 @@ export default function Home() {
               <p className="is-size-4 mb-3">The craziest part? You can <span className="yellowunder">do this method for yourself</span> in less than 30 seconds a day... With one simple pantry food.</p>
               <p className="notification is-size-4" style={{ border: '2px solid #136e73', font: '20px' }}>If you have weight concerns, you should try this method for yourself right now. The $80 billion dollar weight loss industry do not want you to see <strong><a href="https://59b3c219p5u2382m6ivhwkk86b.hop.clickbank.net">THIS VIDEO</a></strong> and discover the amazing fat-melting pantry food. Watch it now before it's too late.</p>
               <p className="is-size-4">Skeptical? I was too, but then I saw <strong><a href="https://59b3c219p5u2382m6ivhwkk86b.hop.clickbank.net">this shocking proof</a></strong> for myself.</p>
+              <p className="is-size-4">This has garnered the trust of 127,000+ womens, each over the age of 50+</p>
               <div className="buttons mt-5"><a href="https://60897y7kp5sxxw3f8hh6weg77u.hop.clickbank.net" className="hellobharat-button button is-link is-size-5 is-size-6-touch topbar" rel="order"><strong>Try it for yourself now!</strong></a></div>
             </div>
             <div className="column index-column index-column-2 ml-5 is-hidden-touch"></div>
